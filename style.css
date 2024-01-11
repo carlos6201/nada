@@ -35,5 +35,8 @@ color:red;
     width:100%;
 }
 #contato_1 {
-    display:inline
+    display:inline_
+}
+.book img{
+width:250px;
 }
